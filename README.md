@@ -2,11 +2,10 @@
 <p>My name is Peterson</p>
 <p>I'm a Full Stack developer in Brazil</p>
 
-<p>Know more about me
-<p>[![Site](https://img.shields.io/badge/Site-petersonzeferino-black)](http://www.petersonzeferino.com/)</p>
-<p>[![Linkedin](https://img.shields.io/badge/-LinkedIn-2867B2?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/petersonzeferino)</p>
-<p>[![Twitter](https://img.shields.io/badge/-Twitter-007bff?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/petzeferino)</p>
-</p>
+<p>Know more about me</p>
+[![Site](https://img.shields.io/badge/Site-petersonzeferino-black)](http://www.petersonzeferino.com/)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-2867B2?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/petersonzeferino)
+[![Twitter](https://img.shields.io/badge/-Twitter-007bff?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/petzeferino)
 
 [![HitCount](http://hits.dwyl.com/petersonzeferino/petersonzeferino.svg)](http://hits.dwyl.com/petersonzeferino/petersonzeferino)
 <!--
