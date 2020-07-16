@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![Site](https://img.shields.io/badge/site-petersonzeferino-lightgrey)](http://www.petersonzeferino.com/)
+[![Site](https://img.shields.io/badge/Site-petersonzeferino-lightgrey)](http://www.petersonzeferino.com/)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue)](https://www.linkedin.com/in/petersonzeferino)
 [![Twitter](https://img.shields.io/static/v1?label=&message=Twitter&color=9cf)](https://twitter.com/petzeferino)
 
