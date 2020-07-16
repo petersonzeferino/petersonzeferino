@@ -6,7 +6,7 @@
 [![Twitter](https://img.shields.io/badge/-Twitter-LightBlue?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/petzeferino)
 
 
-
+[![HitCount](http://hits.dwyl.com/petersonzeferino/petersonzeferino.svg)](http://hits.dwyl.com/petersonzeferino/petersonzeferino)
 <!--
 **petersonzeferino/petersonzeferino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -25,4 +25,4 @@ Here are some ideas to get you started:
 ---
 
 ⭐️ From [Peterson Zeferino](https://github.com/petersonzeferino)
-[![HitCount](http://hits.dwyl.com/petersonzeferino/petersonzeferino.svg)](http://hits.dwyl.com/petersonzeferino/petersonzeferino)
+
