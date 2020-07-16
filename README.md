@@ -1,5 +1,29 @@
 ### Hi there 👋
 
+```html
+<!DOCTYPE html>
+<html>
+    <head>
+        <mate charest="utf-8" />
+        <title>Hello world!</title>
+    </head>
+    <body>
+        <p>
+	<a href="http://www.petersonzeferino.com/" rel="nofollow">
+		<img src="https://img.shields.io/badge/site-petersonzeferino-lightgrey" alt="Site Badge" style="max-width:100%;">
+	</a>
+	<a href="https://www.linkedin.com/in/petersonzeferino" rel="nofollow">
+		<img src="https://img.shields.io/badge/-LinkedIn-blue" alt="Twitter Badge" style="max-width:100%;">
+	</a>
+	<a href="https://twitter.com/petzeferino" rel="nofollow">
+	<img src="https://img.shields.io/static/v1?label=&message=Twitter&color=9cf" alt="Twitter Badge" style="max-width:100%;">
+	</a>
+</p>
+    </body>
+</html>
+```
+
+
 [![HitCount](http://hits.dwyl.com/petersonzeferino/petersonzeferino.svg)](http://hits.dwyl.com/petersonzeferino/petersonzeferino)
 <!--
 **petersonzeferino/petersonzeferino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
