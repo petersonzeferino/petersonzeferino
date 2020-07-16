@@ -1,6 +1,6 @@
 ## Hi there 👋🏾
-<p>My name is Peterson</p>
-<p>I'm a Full Stack developer in Brazil</p>
+<p>My name is Peterson Zeferino from</p>
+<p>I'm a Full Stack Developer in Brazil</p>
 
 Know more about me
 
