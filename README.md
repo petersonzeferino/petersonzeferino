@@ -3,7 +3,7 @@
 
 [![Site](https://img.shields.io/badge/Site-petersonzeferino-lightgrey)](http://www.petersonzeferino.com/)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/petersonzeferino)
-[![Twitter](https://img.shields.io/badge/-Twitter-LightBlue?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/petzeferino)
+[![Twitter](https://img.shields.io/badge/-Twitter-007bff?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/petzeferino)
 
 
 [![HitCount](http://hits.dwyl.com/petersonzeferino/petersonzeferino.svg)](http://hits.dwyl.com/petersonzeferino/petersonzeferino)
