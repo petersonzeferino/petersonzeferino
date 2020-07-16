@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+[![](http://www.petersonzeferino.com/)](https://img.shields.io/badge/site-petersonzeferino-lightgrey)
+[![](https://www.linkedin.com/in/petersonzeferino)](https://img.shields.io/badge/-LinkedIn-blue)
+[![](https://twitter.com/petzeferino)](https://img.shields.io/static/v1?label=&message=Twitter&color=9cf)
 
 [![HitCount](http://hits.dwyl.com/petersonzeferino/petersonzeferino.svg)](http://hits.dwyl.com/petersonzeferino/petersonzeferino)
 
