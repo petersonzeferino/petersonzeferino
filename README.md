@@ -1,5 +1,8 @@
 ## Hi there 👋🏾
+My name is Peterson
+I'm a Full Stack developer in Brazil
 
+Know more about me
 [![Site](https://img.shields.io/badge/Site-petersonzeferino-black)](http://www.petersonzeferino.com/)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-2867B2?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/petersonzeferino)
 [![Twitter](https://img.shields.io/badge/-Twitter-007bff?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/petzeferino)
