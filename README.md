@@ -1,5 +1,5 @@
 ## Hi there 👋🏾
-<p>My name is Peterson Zeferino from</p>
+<p>My name is Peterson Zeferino</p>
 <p>I'm a Full Stack Developer in Brazil</p>
 
 Know more about me
