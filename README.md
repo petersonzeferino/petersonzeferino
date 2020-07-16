@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋🏾
 
 [![Site](https://img.shields.io/badge/Site-petersonzeferino-lightgrey)](http://www.petersonzeferino.com/)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue)](https://www.linkedin.com/in/petersonzeferino)
