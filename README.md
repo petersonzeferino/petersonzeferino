@@ -1,13 +1,5 @@
 ### Hi there 👋
 
-```html
-<!DOCTYPE html>
-<html>
-    <head>
-        <mate charest="utf-8" />
-        <title>Hello world!</title>
-    </head>
-    <body>
         <p>
 	<a href="http://www.petersonzeferino.com/" rel="nofollow">
 		<img src="https://img.shields.io/badge/site-petersonzeferino-lightgrey" alt="Site Badge" style="max-width:100%;">
@@ -19,9 +11,6 @@
 	<img src="https://img.shields.io/static/v1?label=&message=Twitter&color=9cf" alt="Twitter Badge" style="max-width:100%;">
 	</a>
 </p>
-    </body>
-</html>
-```
 
 
 [![HitCount](http://hits.dwyl.com/petersonzeferino/petersonzeferino.svg)](http://hits.dwyl.com/petersonzeferino/petersonzeferino)
