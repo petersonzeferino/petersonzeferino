@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+[![HitCount](http://hits.dwyl.com/petersonzeferino/petersonzeferino.svg)](http://hits.dwyl.com/petersonzeferino/petersonzeferino)
 <!--
 **petersonzeferino/petersonzeferino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
