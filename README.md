@@ -1,5 +1,5 @@
 ## Hi there 👋🏾
-<p>My name is Peterson Zeferino from Brazil (🇧🇷)/p>
+<p>My name is Peterson Zeferino from Brazil (🇧🇷)</p>
 <p>I'm passionate about solving problems using technology</p>
  
 Would you like to find me?
