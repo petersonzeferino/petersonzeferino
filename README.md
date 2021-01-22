@@ -25,5 +25,10 @@ Here are some ideas to get you started:
 -->
 
 ---
+
+![Metrics](https://metrics.lecoq.io/petersonzeferino?template=classic&base.header=0&languages=1&config.timezone=America%2FSao_Paulo&config.animated=true)
+
+---
 ⭐️ From [Peterson Zeferino](https://github.com/petersonzeferino)
+
 
