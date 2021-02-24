@@ -6,7 +6,7 @@
 - 👯 I’m always looking for ways to share my knowledge and recently I’m writing them on [Medium](https://medium.com/@petersonzeferino)
 - 💬 Ask me about Azure, AWS, .NET, Angular, React, Architecture, DDD, TDD and BDD (If you want to talk about another topic, I'll be very happy to learn with you).
 
-Would you like to find me?
+#### 📫 Would you like to find me?
 
 [![Site](https://img.shields.io/badge/Site-petersonzeferino-black)](http://www.petersonzeferino.com/)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-2867B2?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/petersonzeferino)
