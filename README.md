@@ -1,7 +1,7 @@
 ### Hi there 👋🏾
 <p>My name is Peterson Zeferino from Brazil (🇧🇷) and I'm passionate about solving problems using technology 😄</p>
  
-- 🔭 I'm currently working on [Recovery Group](https://www.gruporecovery.com/) as Senior Software Engineer
+- 🔭 I'm currently working on [Cox Automotive](https://coxautomotive.com.br/) as Senior Software Engineer
 - 🌱 I’m currently learning cloud computing in Azure and AWS
 - 👯 I’m always looking for ways to share my knowledge and recently I’m writing them on [Medium](https://medium.com/@petersonzeferino)
 - 💬 Ask me about Azure, AWS, .NET, Angular, React, Architecture, DDD, TDD and BDD (If you want to talk about another topic, I'll be very happy to learn with you).
