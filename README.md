@@ -3,7 +3,7 @@
 <p>My name is Peterson Zeferino from Brazil (🇧🇷) and I'm passionate about solving problems using technology 😄</p>
  
 - 🔭 I'm currently working on [HMH Montréal (Tribal Nova)](http://tribalnova.com/) as Senior Software Developer
-- 🌱 I'm currently improving my knowledge of [typescript](https://www.typescriptlang.org/) with [Node](https://nodejs.org/en/) and learning [Lit](https://lit.dev)
+- 🌱 I'm currently improving my knowledge of [TypeScript](https://www.typescriptlang.org/) with [Node.js](https://nodejs.org/en/) and learning [Lit](https://lit.dev)
 - 👯 I’m always looking for ways to share my knowledge and recently I’m writing them on [Medium](https://medium.com/@petersonzeferino)
 - 💬 Ask me about Azure, AWS, .NET, Angular, React, Architecture, DDD, TDD and BDD (If you want to talk about another topic, I'll be very happy to learn with you).
 
