@@ -6,7 +6,7 @@ I'm currently working at [HMH](https://www.hmhco.com) as a **Senior Software Dev
 #### About Me
 
 I'm a **generalist developer** with a broad skill set, comfortable working across the full stack and adapting to different technologies as needed.  
-Over the years, I've worked on a wide variety of projects — from backend services and distributed systems to front-end applications, cloud infrastructure, automation, and developer tooling.
+Over the years, I've worked on a wide variety of projects, from backend services and distributed systems to front-end applications, cloud infrastructure, automation, and developer tooling.
 
 #### What I’m Focused On
 
