@@ -1,4 +1,4 @@
-#### Hi there 👋🏾
+### Hi there 👋🏾
 
 My name is **Peterson Zeferino**, I'm from Brazil (🇧🇷) and I'm passionate about solving real-world problems through technology 😄.  
 I'm currently working at [HMH](https://www.hmhco.com) as a **Senior Software Developer**, where I contribute to building scalable, reliable, and high-impact software solutions.
